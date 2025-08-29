@@ -1,0 +1,5 @@
+{
+  "name": "Array Processor API Frontend",
+  "description": "A user interface to interact with an API that processes an array of strings, sorting them into numbers, alphabets, and special characters, and performing various calculations.",
+  "requestFramePermissions": []
+}
